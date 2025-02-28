@@ -13,8 +13,6 @@ The project is structured to showcase different types of decorators, from simple
    - Demonstrates the fundamental structure of Python decorators
    - Shows a simple greeting implementation
    ```python:decorators/basic/basic_decorator.py
-   startLine: 1
-   endLine: 12
    ```
 
 2. **Logging Decorator**
