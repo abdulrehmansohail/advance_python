@@ -12,8 +12,6 @@ The project is structured to showcase different types of decorators, from simple
    - Location: `decorators/basic/basic_decorator.py`
    - Demonstrates the fundamental structure of Python decorators
    - Shows a simple greeting implementation
-   ```python:decorators/basic/basic_decorator.py
-   ```
 
 2. **Logging Decorator**
    - Location: `decorators/basic/logging_decorator.py`
